@@ -45,7 +45,7 @@ pip install pyinstaller
 
 2. Build the executable:
 ```bash
-pyinstaller --onefile --noconsole discord_logger.py
+pyinstaller --onefile --noconsole logger.py
 ```
 
 3. Locate the compiled executable in the "dist" directory.
