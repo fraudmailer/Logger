@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Python Script Execution
 
 ```bash
-python discord_logger.py
+python logger.py
 ```
 
 ### Executable Compilation
